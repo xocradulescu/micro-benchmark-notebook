@@ -1,4 +1,4 @@
 # micro-benchmark-notebook
 
 ## Run
-`./gradlew jmh`
+`gradle jmh`
